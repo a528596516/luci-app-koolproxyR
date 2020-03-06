@@ -15,9 +15,9 @@ alias echo_date='echo $(date +%Y年%m月%d日\ %X):'
 url_cjx="https://shaoxia1991.coding.net/p/cjxlist/d/cjxlist/git/raw/master/cjx-annoyance.txt"
 url_kp="https://houzi-.coding.net/p/my_dream/d/my_dream/git/raw/master/kp.dat"
 url_kp_md5="https://houzi-.coding.net/p/my_dream/d/my_dream/git/raw/master/kp.dat.md5"
-url_easylist="https://easylist-downloads.adblockplus.org/easylistchina.txt"
-url_yhosts="https://shaoxia1991.coding.net/p/yhosts/d/yhosts/git/raw/master/hosts"
-url_yhosts1="https://shaoxia1991.coding.net/p/yhosts/d/yhosts/git/raw/master/data/tvbox.txt"
+url_easylist="0.0.0.0"
+url_yhosts="https://0.0.0.0"
+url_yhosts1="https://0.0.0.0"
 kpr_our_rule="https://shaoxia1991.coding.net/p/koolproxyR_rule_list/d/koolproxyR_rule_list/git/raw/master/kpr_our_rule.txt"
 url_fanboy="https://secure.fanboy.co.nz/fanboy-annoyance.txt"
 
